@@ -20,4 +20,3 @@ let color = prompt("Per finire, insierisci il tuo COLORE preferito.")
 // 5 - Visualizzare a schermo la PASSWORD finale dell'utente caratterizzata dalla struttura NomeCognomeColore21
 
 document.getElementById("password").innerHTML = first_name + last_name + color + "21"
-
